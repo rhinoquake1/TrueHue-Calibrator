@@ -1,0 +1,8 @@
+numpy
+opencv-python
+rawpy
+tqdm
+lxml
+pillow
+matplotlib
+colorspacious

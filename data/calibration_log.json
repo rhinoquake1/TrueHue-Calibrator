@@ -1,0 +1,12 @@
+[
+  {
+    "filename": "test.jpg",
+    "bbox": [
+      10,
+      10,
+      200,
+      200
+    ],
+    "num_patches": 24
+  }
+]
